@@ -1,0 +1,23 @@
+{
+  "name": "state-machine",
+  "version": "1.0.0",
+  "description": "A generic state machine package built on top of XState with Vue.js integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "state-machine",
+    "xstate",
+    "vue",
+    "router"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "@xstate/vue": "^4.0.0",
+    "xstate": "^5.19.0"
+  }
+}
+
